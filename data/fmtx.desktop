@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=FMTX
+Comment=FmTx Status Menu item
+Type=default
+X-Path=fmtx_status_menu_item.so
