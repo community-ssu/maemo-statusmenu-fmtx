@@ -1,7 +1,7 @@
 Source: maemo-statusmenu-fmtx
 Section: libs
 Priority: optional
-Maintainer: Faheem Pervez <trippin1@gmail.com>
+Maintainer: Mohammad Abu-Garbeyyeh <mohammad7410@gmail.com>
 Build-Depends: debhelper (>= 5), autotools-dev, autoconf, automake1.9 | automake1.8, libhildon1-dev, libgtk2.0-dev, libglib2.0-dev, libhildondesktop1-dev, libdbus-glib-1-dev, libgconf2-dev, libosso-dev
 Standards-Version: 3.7.2
 

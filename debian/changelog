@@ -1,3 +1,9 @@
+maemo-statusmenu-fmtx (0.12+0cssu2) unstable; urgency=low
+
+  * Clean up code, remove some comments.
+
+ -- Mohammad Abu-Garbeyyeh <mohammad7410@gmail.com>  Tue, 12 Apr 2011 11:50:11 +0300
+
 maemo-statusmenu-fmtx (0.12+0cssu1) unstable; urgency=low
 
   * Added tap-n-hold to toggle FMTX.
